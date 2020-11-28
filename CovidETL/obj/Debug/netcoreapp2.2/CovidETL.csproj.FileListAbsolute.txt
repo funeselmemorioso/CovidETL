@@ -1,0 +1,11 @@
+C:\Users\Nicolin\source\repos\CovidETL\CovidETL\bin\Debug\netcoreapp2.2\CovidETL.deps.json
+C:\Users\Nicolin\source\repos\CovidETL\CovidETL\bin\Debug\netcoreapp2.2\CovidETL.runtimeconfig.json
+C:\Users\Nicolin\source\repos\CovidETL\CovidETL\bin\Debug\netcoreapp2.2\CovidETL.runtimeconfig.dev.json
+C:\Users\Nicolin\source\repos\CovidETL\CovidETL\bin\Debug\netcoreapp2.2\CovidETL.dll
+C:\Users\Nicolin\source\repos\CovidETL\CovidETL\obj\Debug\netcoreapp2.2\CovidETL.csprojAssemblyReference.cache
+C:\Users\Nicolin\source\repos\CovidETL\CovidETL\obj\Debug\netcoreapp2.2\CovidETL.csproj.CoreCompileInputs.cache
+C:\Users\Nicolin\source\repos\CovidETL\CovidETL\obj\Debug\netcoreapp2.2\CovidETL.AssemblyInfoInputs.cache
+C:\Users\Nicolin\source\repos\CovidETL\CovidETL\obj\Debug\netcoreapp2.2\CovidETL.AssemblyInfo.cs
+C:\Users\Nicolin\source\repos\CovidETL\CovidETL\bin\Debug\netcoreapp2.2\CovidETL.pdb
+C:\Users\Nicolin\source\repos\CovidETL\CovidETL\obj\Debug\netcoreapp2.2\CovidETL.dll
+C:\Users\Nicolin\source\repos\CovidETL\CovidETL\obj\Debug\netcoreapp2.2\CovidETL.pdb
